@@ -1,60 +1,73 @@
-.container-fluid{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntQy30wQeNrX7omzY7lxfazg36jy1THEUEw&usqp=CAU);
+.containerfluid {
+    background-image: url(https://images.unsplash.com/photo-1571771826380-5c6d2ab513b5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGJhY2tkcm9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
 }
-body{
-    background-color:black;
+
+body {
+    background-color: black;
     color: white;
     font-family: 'Montserrat', sans-serif;
 }
-.container{
+
+.container {
     background-color: black;
 }
-.navbar{
+
+.navbar {
     background-color: black;
     font-family: 'Montserrat', sans-serif;
 }
-.homefont{
-    font-family: 'Amatic SC', cursive;
+
+.homefont {
+    font-family: 'Palette Mosaic', cursive;
     font-size: 1000%;
 }
 
-.title{
+.title {
     font-family: 'Suranna', serif;
 }
-.homesub{
+
+.homesub {
     text-decoration: underline;
 }
-.homea{
+
+.homea {
     color: rgb(104, 4, 24);
 }
-.homea:hover{
+
+.homea:hover {
     color: white;
     text-decoration: underline;
 }
-.dropdown-item{
-    color: rgb(216, 6, 48);
 
+.dropdown-item {
+    color: rgb(216, 6, 48);
 }
-.dropdown-item:hover{
+
+.dropdown-item:hover {
     color: rgb(20, 20, 83);
     text-decoration: none;
 }
-.dropdown-menu{
+
+.dropdown-menu {
     width: max-content;
     height: max-content;
     padding: 15px;
 }
-.ul{
+
+.ul {
     text-decoration: underline;
 }
-.black{
+
+.black {
     color: #000;
 }
-.black:hover{
+
+.black:hover {
     text-decoration: underline;
 }
+
 .card {
     width: 380px;
     height: 300px;
