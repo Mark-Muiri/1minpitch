@@ -3,7 +3,7 @@ from . import main
 from .forms import CommentForm, UpdateProfile, PitchForm
 from ..models import Comment, User, Pitch
 from flask_login import login_required, current_user
-# from .. import db, photos
+from .. import db, photos
 
 
 @main.route("/")

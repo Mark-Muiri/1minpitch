@@ -1,0 +1,63 @@
+.container-fluid{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntQy30wQeNrX7omzY7lxfazg36jy1THEUEw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    background-color:black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    background-color: black;
+}
+.navbar{
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+.homefont{
+    font-family: 'Amatic SC', cursive;
+    font-size: 1000%;
+}
+
+.title{
+    font-family: 'Suranna', serif;
+}
+.homesub{
+    text-decoration: underline;
+}
+.homea{
+    color: rgb(104, 4, 24);
+}
+.homea:hover{
+    color: white;
+    text-decoration: underline;
+}
+.dropdown-item{
+    color: rgb(216, 6, 48);
+
+}
+.dropdown-item:hover{
+    color: rgb(20, 20, 83);
+    text-decoration: none;
+}
+.dropdown-menu{
+    width: max-content;
+    height: max-content;
+    padding: 15px;
+}
+.ul{
+    text-decoration: underline;
+}
+.black{
+    color: #000;
+}
+.black:hover{
+    text-decoration: underline;
+}
+.card {
+    width: 380px;
+    height: 300px;
+    border-width: 2px;
+    border-color: white;
+}
