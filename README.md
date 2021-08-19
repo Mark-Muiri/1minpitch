@@ -1,5 +1,5 @@
 # The Pitcher
-#### This is an online platform where a user can write his own pitches, read pitches from other users, vote for and review pitches as well as maintain their own profiles. 2020
+#### This is an online platform where a user can write his own pitches, read pitches from other users, vote for and review pitches as well as maintain their own profiles. 2021
 #### By **Mark Muiri**
 ## Description
 This is an online platform where a user can write his own pitches, read pitches from other users, vote for and review pitches as well as maintain their own profiles.
@@ -33,4 +33,4 @@ Sign in throws an error but does not prevent account creation.
 ## Support and contact details
 * Email: markwaichinga 
 * License (MIT)
-* Copyright (c) 2020**Mark Muiri**
+* Copyright (c) 2021**Mark Muiri**
